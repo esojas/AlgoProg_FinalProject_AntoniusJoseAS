@@ -1,7 +1,8 @@
-# AlgoProg_FinalProject_AntoniusJoseAS
+# Introduction
+This project is made by using the Python programming language. This game is to test users' creativity and make them have fun while doing so. Additionally this is also used to test my capacity as a student who is interested in game development.
 
-
-
+# Documentation
+Video and PDF link : https://drive.google.com/drive/folders/1V1g3hpbstVE6AEGhaZN79EfT5_ixADU6?usp=sharing
 
 # How the program should look like if run properly
 
