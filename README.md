@@ -3,7 +3,7 @@
 
 
 
-How the program should look like if run properly
+# How the program should look like if run properly
 
 1. Main Menu that appears when the user first runs the program or can be accessed from the pause menu or can be also accessed from completing Level
    ![image](https://github.com/esojas/AlgoProg_FinalProject_AntoniusJoseAS/assets/144889670/fb483105-b43e-4054-a0e7-24ca01a48d00)
